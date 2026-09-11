@@ -33,7 +33,7 @@ even if the script errors out or is interrupted.
 
    ```bash
    # Path to the virtual environment directory (contains bin/activate)
-   VENV_PATH="./venv"
+   VENV_PATH="./.venv"
 
    # Path to the python script to run
    PYTHON_SCRIPT="./main.py"
